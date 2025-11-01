@@ -14,4 +14,4 @@ chmod +x install_chrome_chromedriver.sh
 sudo apt install -y python3-pip
 pip install selenium
 
-
+Ejecutar Prueba : Python3 test_chrome.py
