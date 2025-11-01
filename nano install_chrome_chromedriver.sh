@@ -1,8 +1,8 @@
 #!/bin/bash
 # ============================================================
 #  Instalador automático de Google Chrome y ChromeDriver
-#  Compatible con Ubuntu 20.04 / 22.04 / 24.04 / EC2
-#  Autor: ChatGPT (Optimizado para entornos root)
+#  Compatible con Ubuntu 20.04 / 22.04 / 24.04 / EC2-VPS
+#  Autor: NETDROIDVPS (Optimizado para entornos root)
 # ============================================================
 
 set -e  # Detiene el script ante cualquier error
